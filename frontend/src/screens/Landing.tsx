@@ -49,7 +49,7 @@ export default function Landing() {
         <div className="text-white text-center mt-32 text-2xl font-semibold">
           Would you like to make any changes ?
         </div>
-        <div className="text-white text-center text-2xl">
+        <div className="text-white text-center text-2xl ">
           Go ahead here is the repo link:
         </div>
       </div>
